@@ -9,5 +9,5 @@
 - Python | Pytorch | MongoDB | PostgreSQL | Git | Linux
 - Working with deployable data and machine learning solutions
 - Learning Python, R, AI stuff and how to play the piano
-- I have a [blog](https://hyperspaces.link/)!
+- I have a [website](https://mathpn.com/)!
 - Pronouns: he/him (EN) - ele/dele (PT)
