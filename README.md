@@ -4,10 +4,18 @@
   </a>
 </div>
 
-- Python developer
+# Hi there 👋
+
+<h3 align="center">Data Scientist, Python Developer and Biomedical Scientist</h3>
+
+- 🚀 Building deployable machine learning solutions and data systems
+- Python developer with some experience with Go and Javascript
 - BSc Biomedical Sciences, MSc Molecular Biology
-- Python | Pytorch | MongoDB | PostgreSQL | Git | Linux
-- Working with deployable data and machine learning solutions
-- Learning Python, R, AI stuff and how to play the piano
+- Python | FastAPI | Pytorch | SQL Server | PostgreSQL | MongoDB | Docker
 - I have a [website](https://mathpn.com/)!
-- Pronouns: he/him (EN) - ele/dele (PT)
+
+## Currently learning more about
+
+- MLOps
+- Apache Spark
+- Building ETL pipelines
