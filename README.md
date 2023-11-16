@@ -6,16 +6,18 @@
 
 # Hi there 👋
 
-<h3 align="center">Data Scientist, Python Developer and Biomedical Scientist</h3>
+## 
+<h3 align="center">Data Scientist, Developer, and ML enthusiat</h3>
 
 - 🚀 Building deployable machine learning solutions and data systems
-- Python developer with some experience with Go and Javascript
+- Currently working as a Data Scientist
+- 💻 Programming Languages: Python, Go
+- FastAPI | Pytorch | SQL Server | PostgreSQL | MongoDB | Docker
 - BSc Biomedical Sciences, MSc Molecular Biology
-- Python | FastAPI | Pytorch | SQL Server | PostgreSQL | MongoDB | Docker
 - I have a [website](https://mathpn.com/)!
 
 ## Currently learning more about
 
-- MLOps
-- Apache Spark
+- MLOps 
+- LLMs
 - Building ETL pipelines
