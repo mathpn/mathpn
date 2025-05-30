@@ -6,18 +6,15 @@
 
 # Hi there 👋
 
-## 
-<h3 align="center">Data Scientist, Developer, and ML enthusiat</h3>
-
+- Currently working as a Data Scientist in Brazil
+- I'm interested in data engineering, statistics, machine learning and AI
+- I also write in my [blog](https://mathpn.com/)
 - 🚀 Building deployable machine learning solutions and data systems
-- Currently working as a Data Scientist
-- 💻 Programming Languages: Python, Go
+- 💻 Main programming languages: Python, Go
 - FastAPI | Pytorch | SQL Server | PostgreSQL | MongoDB | Docker
-- BSc Biomedical Sciences, MSc Molecular Biology
-- I have a [website](https://mathpn.com/)!
 
 ## Currently learning more about
 
-- MLOps 
+- Causal inference 
 - LLMs
 - Building ETL pipelines
