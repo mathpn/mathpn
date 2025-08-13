@@ -7,14 +7,15 @@
 # Hi there 👋
 
 - Currently working as a Data Scientist in Brazil
-- I'm interested in data engineering, statistics, machine learning and AI
+- I'm interested in AI, machine learning, data engineering, and statistics
 - I also write in my [blog](https://mathpn.com/)
 - 🚀 Building deployable machine learning solutions and data systems
 - 💻 Main programming languages: Python, Go
 - FastAPI | Pytorch | SQL Server | PostgreSQL | MongoDB | Docker
 
-## Currently learning more about
+## Learning more about
 
-- Causal inference 
 - LLMs
-- Building ETL pipelines
+- Building applications with LLMs and agents
+
+> Currently no work-related contributions on this profile
